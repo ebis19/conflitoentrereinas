@@ -94,7 +94,7 @@ reinas.out
 
 reinas.in
 reinas.out
-3 2
+2 3
 1 1
 3 1
 2 1
@@ -112,7 +112,7 @@ Descripción:El caso de prueba es para determinar si el sofware determina correc
 
 reinas.in
 reinas.out
-3 2
+2 3
 1 1
 1 3
 1 2
@@ -132,7 +132,7 @@ Descripción:El caso de prueba es para determinar si el software determina corre
 
 reinas.in
 reinas.out
-3 2
+2 3
 1 1
 3 3
 2 2
