@@ -1,0 +1,178 @@
+﻿
+
+
+Conflictos entre reinas
+
+
+00_ej1enunciado
+
+reinas.in
+reinas.out
+8 8
+4 1
+8 2
+1 3
+3 4
+6 5
+2 6
+7 7
+5 8
+0
+0
+0
+0
+0
+0
+0
+0
+
+Descripción:
+es el primer ejemplo dado por el enunciado donde no hay ningún conflicto 
+
+
+01_ej1enuciado 
+
+
+reinas.in
+reinas.out
+8 
+2
+8
+1
+3
+6
+4
+7
+5
+3
+3
+10
+1
+2
+3
+4
+5
+6
+7
+8
+5
+6
+
+1 5
+1 6
+1 9
+1 9
+2 1 9
+3 2 9 10
+0
+1 10
+5 3 4 5 6  10
+3 6 8 9
+
+
+
+
+02_unareina
+
+
+reinas.in
+reinas.out
+1 1
+1 1
+0
+
+
+
+
+
+
+
+
+
+03_conflictoencolumna
+
+
+reinas.in
+reinas.out
+3 2
+1 1
+3 1
+2 1
+
+1 3
+1 3
+1 1 2
+
+
+Descripción:El caso de prueba es para determinar si el sofware determina correctamente los cuando hay conflitos entre reinas de la misma columna  
+
+
+
+04_conflictoenfila
+
+reinas.in
+reinas.out
+3 2
+1 1
+1 3
+1 2
+1 3
+1 3
+1 1 2
+
+
+
+Descripción:El caso de prueba es para determinar si el software determina correctamente los cuando hay conflictos entre reinas de la misma fila. Considerando que las reinas no están ordenadas por lo que pueden haber mas de una reina en la misma columna pero no hay conflicto con todas
+
+
+
+05_conflictoenladiagonal
+
+
+
+reinas.in
+reinas.out
+3 2
+1 1
+3 3
+2 2
+
+
+1 3
+1 3
+1 1 2
+
+
+Descripción:El caso de prueba es para determinar si el software determina correctamente los cuando hay conflictos entre reinas de la misma diagonal  
+
+
+
+
+
+
+
+
+
+06_fatiga
+
+
+reinas.in
+reinas.out
+10000 50000
+1 1
+1 2
+.
+.
+.
+5 10000
+3 2 10000 10001
+4 1 10001 10002
+.
+.
+.
+
+
+
+Descripción: se determina la si el algoritmo funciona en el caso limite pedido
+
+
